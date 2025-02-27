@@ -1,0 +1,17 @@
+C:\Users\felip\TesteTecnico\bin\Debug\net9.0\TesteTecnico.exe
+C:\Users\felip\TesteTecnico\bin\Debug\net9.0\TesteTecnico.deps.json
+C:\Users\felip\TesteTecnico\bin\Debug\net9.0\TesteTecnico.runtimeconfig.json
+C:\Users\felip\TesteTecnico\bin\Debug\net9.0\TesteTecnico.dll
+C:\Users\felip\TesteTecnico\bin\Debug\net9.0\TesteTecnico.pdb
+C:\Users\felip\TesteTecnico\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\felip\TesteTecnico\obj\Debug\net9.0\TesteTecnico.csproj.AssemblyReference.cache
+C:\Users\felip\TesteTecnico\obj\Debug\net9.0\TesteTecnico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\TesteTecnico\obj\Debug\net9.0\TesteTecnico.AssemblyInfoInputs.cache
+C:\Users\felip\TesteTecnico\obj\Debug\net9.0\TesteTecnico.AssemblyInfo.cs
+C:\Users\felip\TesteTecnico\obj\Debug\net9.0\TesteTecnico.csproj.CoreCompileInputs.cache
+C:\Users\felip\TesteTecnico\obj\Debug\net9.0\TesteTec.2FFF80F2.Up2Date
+C:\Users\felip\TesteTecnico\obj\Debug\net9.0\TesteTecnico.dll
+C:\Users\felip\TesteTecnico\obj\Debug\net9.0\refint\TesteTecnico.dll
+C:\Users\felip\TesteTecnico\obj\Debug\net9.0\TesteTecnico.pdb
+C:\Users\felip\TesteTecnico\obj\Debug\net9.0\TesteTecnico.genruntimeconfig.cache
+C:\Users\felip\TesteTecnico\obj\Debug\net9.0\ref\TesteTecnico.dll
