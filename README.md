@@ -49,5 +49,3 @@ Este repositório contém as soluções do teste técnico para a vaga de **Desen
 ## 📬 Contato
 +1 (672) 971 8235
 felipe.gonzales37@gmail.com
-
-Caso haja qualquer dúvida ou necessidade de ajuste, estou à disposição!
