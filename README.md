@@ -33,7 +33,7 @@ Este repositório contém as soluções do teste técnico para a vaga de **Desen
 │-- dados.xml
 │-- README.md
 
-##▶️ Como Executar
+## ▶️ Como Executar
 1. Clone o repositório:
    git clone https://github.com/FelipeGonzales/TesteTecnico.git
 
@@ -46,7 +46,7 @@ Este repositório contém as soluções do teste técnico para a vaga de **Desen
 4. Execute o código:
    dotnet run
 
-##📬 Contato
+## 📬 Contato
 +1 (672) 971 8235
 felipe.gonzales37@gmail.com
 
